@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>706345535050-bhiviio7re4e6uj0m0q2mmvi935l4tm1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.706345535050-bhiviio7re4e6uj0m0q2mmvi935l4tm1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAyhubjcMwaKEK8FkjccinjlyE-wUJ_bzE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>706345535050</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.jadinPameran</string>
+	<key>PROJECT_ID</key>
+	<string>jadin-pameran</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jadin-pameran.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:706345535050:ios:5ad6d8094f4181a8a6c8b3</string>
+</dict>
+</plist>

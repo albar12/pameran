@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "706345535050",
+    "project_id": "jadin-pameran",
+    "storage_bucket": "jadin-pameran.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706345535050:android:5798debff2e9010fa6c8b3",
+        "android_client_info": {
+          "package_name": "com.example.jadin_pameran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706345535050-7mrqpbp13js1vpnc0pvr04vmlovk9ok9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2i8ngZyNf30AZMzl0N0Y8lf6BlajpAtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706345535050-7mrqpbp13js1vpnc0pvr04vmlovk9ok9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
